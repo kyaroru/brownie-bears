@@ -13,10 +13,8 @@ function App() {
         <a
           className="App-link"
           href="http://www.kyaroru.com"
-          target="_blank"
-          rel="noopener noreferrer"
         >
-          My Owner: Carol
+          kyaroru.com
         </a>
       </header>
     </div>
